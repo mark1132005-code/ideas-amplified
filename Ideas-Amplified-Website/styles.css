@@ -59,7 +59,7 @@ p.lead{font-size:1.08rem; color:var(--mute); max-width:560px; margin-top:1rem;}
   font-size:.74rem;
   letter-spacing:.18em;
   text-transform:uppercase;
-  color:var(--ink);
+  color:#F1F1EF;
   margin-bottom:1rem;
   display:flex; align-items:center; gap:10px;
 }
